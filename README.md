@@ -1,2 +1,2 @@
 # aoc-2024
-My solutions for the Advent of Code 2023 problems.
+My solutions for the Advent of Code 2024 problems.
